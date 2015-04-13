@@ -5,7 +5,9 @@
 
 Bu kitaplar ne hakkında? Özetle, sadece bir dilin küçük bir parçasının "iyi kısımlarını", ve işin yapılması için gereken en küçük miktarını değil, *Javascript'in tüm kısımınlarını* ciddi bir şekilde öğrenmek uğraşıdır.
 
-Serious developers in other languages expect to put in the effort to learn most or all of the language(s) they primarily write in, but JS developers seem to stand out from the crowd in the sense of typically not learning very much of the language. This is not a good thing, and it's not something we should continue to allow to be the norm.
+~~Serious developers in other languages expect to put in the effort to learn most or all of the language(s) they primarily write in, but JS developers seem to stand out from the crowd in the sense of typically not learning very much of the language. This is not a good thing, and it's not something we should continue to allow to be the norm.~~
+
+Diğer yazılım dillerinde geliştirme yapan ciddi geliştiricilerin, kullandıkları dilin büyük bir kısmını ya da tamamını öğrenmekleri için çaba sarfetmeleri beklenir, fakat JavaScript geliştiricileri dilin büyük bir kısmını öğrenmedikleri için diğer geliştiricilerden bir anlamda ayrışıyorlar. Bu iyi birşey değil ve bizim daha fazla bu duruma izin vermememiz gerekiyor. 
 
 The *You Don't Know JS* (*YDKJS*) series stands in stark contrast to the typical approaches to learning JS, and is unlike almost any other JS books you will read. It challenges you to go beyond your comfort zone and to ask the deeper "why" questions for every single behavior you encounter. Are you up for that challenge?
 
