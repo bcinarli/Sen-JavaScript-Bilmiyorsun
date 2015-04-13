@@ -3,7 +3,7 @@
 
 ~~What is this series all about? Put simply, it's about taking seriously the task of learning *all parts of JavaScript*, not just some subset of the language that someone called "the good parts," and not just whatever minimal amount you need to get your job done at work.~~
 
-Bu kitaplar ne hakkında? Özetle, sadece bir dilin küçük bir kısmının "iyi kısımlarını", ve işin yapılması için gereken en küçük miktarını değil, *Javascript'in tüm kısımınlarını* ciddi bir şekilde öğrenmek uğraşıdır.
+Bu kitaplar ne hakkında? Özetle, sadece bir dilin küçük bir parçasının "iyi kısımlarını", ve işin yapılması için gereken en küçük miktarını değil, *Javascript'in tüm kısımınlarını* ciddi bir şekilde öğrenmek uğraşıdır.
 
 Serious developers in other languages expect to put in the effort to learn most or all of the language(s) they primarily write in, but JS developers seem to stand out from the crowd in the sense of typically not learning very much of the language. This is not a good thing, and it's not something we should continue to allow to be the norm.
 
